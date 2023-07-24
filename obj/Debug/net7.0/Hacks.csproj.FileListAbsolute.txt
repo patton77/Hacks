@@ -289,3 +289,5 @@
 /Users/hayden/Projects/Hacks/Hacks/obj/Debug/net7.0/Hacks.pdb
 /Users/hayden/Projects/Hacks/Hacks/obj/Debug/net7.0/Hacks.genruntimeconfig.cache
 /Users/hayden/Projects/Hacks/Hacks/obj/Debug/net7.0/ref/Hacks.dll
+/Users/hayden/Projects/Hacks/Hacks/bin/Debug/net7.0/Syncfusion.EJ2.dll
+/Users/hayden/Projects/Hacks/Hacks/bin/Debug/net7.0/Syncfusion.Licensing.dll
